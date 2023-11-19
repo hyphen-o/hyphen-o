@@ -1,5 +1,5 @@
 ## Keigo Okamoto
-[![keigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyphen&theme=vue-dark&show_icons=true)](https://github.com/hyphen-o/github-readme-stats)
+[![keigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyphen-o&theme=vue-dark&show_icons=true)](https://github.com/hyphen-o/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyphen-o&theme=vue-dark&show_icons=true&layout=pie)](https://github.com/hyphen-o/github-readme-stats)
 
 <!--
