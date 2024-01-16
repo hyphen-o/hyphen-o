@@ -1,16 +1,17 @@
 [![redpanda's GitHub Banner](./assets/profile.png)]()
 
-#### Languages and skills
+## 🌱Languages and skills
 [![My Skills](https://skillicons.dev/icons?i=next,react,laravel,py,ts,js,html,css,docker,aws)](https://skillicons.dev)
 
------
 
-<a href="https://github.com/hyphen-o/github-readme-stats">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=hyphen-o&theme=vue-dark&show_icons=true" />
-</a>
-<a href="https://github.com/hyphen-o/github-readme-stats">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyphen-o&theme=vue-dark&show_icons=true&layout=compact" />
-</a>
+## ⚡️Analytics
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyphen-o&theme=vue-dark&layout=compact&show_icons=true" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=hyphen-o&theme=vue-dark&show_icons=true" />
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=hyphen-o&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **hyphen-o/hyphen-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
