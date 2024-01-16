@@ -1,4 +1,4 @@
-[![hyphen-o's GitHub Banner](./assets/profile.png)]()
+[![hyphen-o's GitHub Banner](./assets/profile1.png)]()
 
 ## <div style="display: flex; align-item: center"><img src="./assets/red.png" width="25px" style="margin-right: 10px;"/>Languages and skills</div>
 <div style="display: inline-block;">
