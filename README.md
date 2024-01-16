@@ -1,6 +1,7 @@
 [![redpanda's GitHub Banner](./assets/profile.png)]()
 
 #### Languages and skills
+<div style="display: inline-block">
 <img src="https://img.shields.io/badge/-Next.js-000000.svg?logo=next.js&style=for-the-badge">
 <img src="https://img.shields.io/badge/-React-ffffff.svg?logo=react&style=for-the-badge">
 <img src="https://img.shields.io/badge/-Python-ffff99.svg?logo=python&style=for-the-badge">
@@ -11,6 +12,7 @@
 <img src="https://img.shields.io/badge/-Docker-1488C6.svg?logo=docker&style=for-the-badge">
 <img src="https://img.shields.io/badge/-Html5-ffff99.svg?logo=html5&style=for-the-badge">
 <img src="https://img.shields.io/badge/-Css3-1572B6.svg?logo=css3&style=for-the-badge">
+</div>
 
 -----
 
