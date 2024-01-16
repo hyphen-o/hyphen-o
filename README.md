@@ -1,4 +1,18 @@
-## Keigo Okamoto
+[![redpanda's GitHub Banner](./assets/profile.png)]()
+
+#### Languages and skills
+<img src="https://img.shields.io/badge/-Next.js-000000.svg?logo=next.js&style=for-the-badge">
+<img src="https://img.shields.io/badge/-React-ffffff.svg?logo=react&style=for-the-badge">
+<img src="https://img.shields.io/badge/-Python-ffff99.svg?logo=python&style=for-the-badge">
+<img src="https://img.shields.io/badge/-Typescript-ffff99.svg?logo=typescript&style=for-the-badge">
+<img src="https://img.shields.io/badge/-Javascript-ffff99.svg?logo=javascript&style=for-the-badge">
+<img src="https://img.shields.io/badge/-Php-ffff99.svg?logo=php&style=for-the-badge">
+<img src="https://img.shields.io/badge/-Laravel-E74430.svg?logo=laravel&style=for-the-badge">
+<img src="https://img.shields.io/badge/-Docker-1488C6.svg?logo=docker&style=for-the-badge">
+<img src="https://img.shields.io/badge/-Html5-ffff99.svg?logo=html5&style=for-the-badge">
+<img src="https://img.shields.io/badge/-Css3-1572B6.svg?logo=css3&style=for-the-badge">
+
+-----
 
 <a href="https://github.com/hyphen-o/github-readme-stats">
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=hyphen-o&theme=vue-dark&show_icons=true" />
