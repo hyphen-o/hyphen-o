@@ -1,11 +1,11 @@
 [![hyphen-o's GitHub Banner](./assets/profile1.png)]()
 
-# <div><img src="./assets/cane.png" width="75px"/>Languages and skills</div>
+# <div><img src="./assets/cane.png" width="50px"/>Languages and skills</div>
 <div style="display: inline-block;">
 <img src="https://skillicons.dev/icons?i=next,react,laravel,py,ts,js,php,html,css,docker,aws)"/>
 </div>
 
-# <div><img src="./assets/box1.png" width="75px" />Analytics</div>
+# <div><img src="./assets/box1.png" width="50px" />Analytics</div>
 <p align="left"> 
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=hyphen-o&theme=blueberry&show_icons=true&hide_border=true" />
   <img alt="Top Langs" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hyphen-o&theme=blueberry" />
