@@ -2,7 +2,7 @@
 
 # <div><img src="./assets/cane.png" width="50px"/>Languages and skills</div>
 <div style="display: inline-block;">
-<img src="https://skillicons.dev/icons?i=next,react,vite,laravel,fastapi,py,ts,js,php,html,css,java,docker,git,prisma,sqlite,mysql,selenium,aws,figma,postman,latex,)"/>
+<img src="https://skillicons.dev/icons?i=next,react,vite,laravel,wordpress,fastapi,py,ts,js,php,html,css,scss,java,docker,git,prisma,sqlite,mysql,selenium,aws,figma,postman,latex,)"/>
 </div>
 
 # <div><img src="./assets/box1.png" width="50px" />Analytics</div>
